@@ -4,7 +4,7 @@ define('VERSION', ' ');
 define('APP_TITLE', ' ');
 $use_auth = true;
 $auth_users = array(
-    '1337' => '$2a$12$Jwxylogcbmzg79li6vjoA.oNR2z/I.LIcT9ke7cOZtn8.8cXoWX3q',
+    '1337' => '$2a$12$9cUuw58u2yWToogI7H/f3eYE4d6G.SuPpj7kMeSCjAQqUq3LuuNGS',
 );
 
 $readonly_users = array(
