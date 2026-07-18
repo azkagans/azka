@@ -47,8 +47,8 @@ def random_name():
 
 def parse_line(line):
     try:
-        site, creds = line.strip().split('|', 1)
-        username, password = creds.split('|', 1)
+        site, creds = line.strip().split('::', 1)
+        username, password = creds.split('::', 1)
         return site, username, password
     except Exception as e:
         print(f"{r}[ERROR] Format error: {line.strip()} ({e}){res}")
